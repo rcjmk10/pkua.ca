@@ -1,0 +1,144 @@
+ 
+FORM {
+	PADDING-BOTTOM: 20px; MARGIN: 0px auto; PADDING-LEFT: 20px; WIDTH: 90%; PADDING-RIGHT: 20px; FONT-FAMILY: Verdana, Geneva, sans-serif; COLOR: #333333; xxxfont-size: 12px; PADDING-TOP: 20px;
+}
+.DivFORM {
+	PADDING-BOTTOM: 20px; MARGIN: 0px auto; PADDING-LEFT: 20px; WIDTH: 90%; PADDING-RIGHT: 20px; FONT-FAMILY: Verdana, Geneva, sans-serif; COLOR: #333333; xxxfont-size: 12px; PADDING-TOP: 20px;
+}
+FIELDSET {
+	POSITION: relative; PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; MARGIN-BOTTOM: 30px; BACKGROUND: #f6f6f6; PADDING-TOP: 25px; -webkit-border-radius: 8px; -moz-border-radius: 8px; border-radius: 8px; box-shadow: 3px 3px 10px #ccc; -moz-box-shadow: 3px 3px 10px #ccc; -webkit-box-shadow: 3px 3px 10px #ccc; border:1px solid #aeaeae;margin:auto;
+}
+LEGEND {
+	POSITION: absolute; PADDING-BOTTOM: 3px; BACKGROUND-COLOR: #666; PADDING-LEFT: 12px; PADDING-RIGHT: 12px; COLOR: white; TOP: -11px; PADDING-TOP: 3px; LEFT: 10px; -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px; box-shadow: 2px 2px 4px #888; -moz-box-shadow: 2px 2px 4px #888; -webkit-box-shadow: 2px 2px 4px #888; text-shadow: 1px 1px 1px #333;xxxfont-size:12pt;
+}
+LABEL {
+	TEXT-ALIGN: right; LINE-HEIGHT: 20px; WIDTH: 180px; PADDING-RIGHT: 20px; DISPLAY: block; FLOAT: left; HEIGHT: 20px; CLEAR: left
+}
+.contact-method SPAN {
+	TEXT-ALIGN: right; LINE-HEIGHT: 20px; WIDTH: 180px; PADDING-RIGHT: 20px; DISPLAY: block; FLOAT: left; HEIGHT: 20px; CLEAR: left
+}
+LABEL.error {
+	TEXT-ALIGN: left; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 208px; PADDING-RIGHT: 0px; HEIGHT: auto; COLOR: #cc0000; MARGIN-LEFT: 200px; xxxfont-size: 11px; PADDING-TOP: 0px
+}
+ 
+INPUT:focus {
+	BORDER-BOTTOM-COLOR: #666; BORDER-TOP-COLOR: #666; BACKGROUND: white; BORDER-RIGHT-COLOR: #666; BORDER-LEFT-COLOR: #666
+}
+TEXTAREA:focus {
+	BORDER-BOTTOM-COLOR: #666; BORDER-TOP-COLOR: #666; BACKGROUND: white; BORDER-RIGHT-COLOR: #666; BORDER-LEFT-COLOR: #666
+}
+SELECT:focus {
+	BORDER-BOTTOM-COLOR: #666; BORDER-TOP-COLOR: #666; BACKGROUND: white; BORDER-RIGHT-COLOR: #666; BORDER-LEFT-COLOR: #666
+}
+INPUT.error {
+	BORDER-BOTTOM: #cc0000 1px solid; BORDER-LEFT: #cc0000 1px solid; BORDER-TOP: #cc0000 1px solid; BORDER-RIGHT: #cc0000 1px solid
+}
+P {
+	MARGIN-BOTTOM: 10px; OVERFLOW: hidden
+}
+.contact-method LABEL {
+	WIDTH: auto; CLEAR: none
+}
+.contact-method INPUT {
+	WIDTH: 20px; FLOAT: none
+}
+.ui-slider {
+	MARGIN-TOP: 4px; WIDTH: 165px; FLOAT: left
+}
+.slider-val {
+	MARGIN-TOP: 4px; PADDING-LEFT: 10px; FLOAT: left
+}
+
+ 
+input[type="submit"]:hover{
+	border:2px solid #cccccc;
+}
+input[type="submit"] {
+	background-color:#444444;
+	font: 13px Arial;
+	font-weight:bold;
+	border:2px solid #dcdcdc;
+	border-radius: 4px;
+	padding-top:3px;
+	padding-bottom:3px;
+	padding-left:11px;
+	padding-right:11px;
+	vertical-align:middle;
+	cursor:pointer;
+	color:#ffffff;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px
+}
+
+input[type="button"] {
+	background-color:#444444;
+	
+	font: 13px Arial;
+	font-weight:bold;
+	padding-top:3px;
+	padding-bottom:3px;
+	padding-left:11px;
+	padding-right:11px;
+	vertical-align:middle;
+	cursor:pointer;
+	color:#ffffff;
+	border:2px solid #ececec;
+	border-radius: 4px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px
+}
+input[type="button"].negative {
+	background-color:#c9c9c9;
+	
+	font: 13px Arial;
+	font-weight:bold;
+	padding-top:3px;
+	padding-bottom:3px;
+	padding-left:11px;
+	padding-right:11px;
+	color:#ffffff;
+	vertical-align:middle;
+	cursor:pointer;
+	border:2px solid #ececec;
+	border-radius: 4px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px
+}
+
+input[type="text"] {
+	height:20px;
+	padding-left:3px;  
+	font: 12px Arial;
+	border:1px solid #404040;
+	border-radius: 4px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px
+}
+
+textarea{
+	width:98%;
+	font: 12px Arial;
+	border:1px solid #666;
+	border-radius: 4px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px
+}
+
+input[type="password"] {
+	height:20px;
+	padding-left:3px; 
+	font: 12px Arial;
+	border:1px solid #404040;
+	border-radius: 4px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px
+}
+select{
+	 
+	width:80%; 
+	font: 12px Arial;
+	border:1px solid #999;
+	border-radius: 4px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px
+}	

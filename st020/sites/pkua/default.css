@@ -1,0 +1,149 @@
+﻿* {
+	font-family: Arial, Arial;
+}
+
+.ConentSlotRecordTable {
+	border-bottom: 1px solid #ff0000;
+}
+
+.ContentSlotHeader,.SlotHeader {
+	background-color: #ffffff;
+}
+
+.ContentSlotTitle,.slotTitle,.ContentSlotHeaderTitle {
+	background-color: #ffffff;
+	color: #ff0000;
+	font-family: Arial, Arial;
+}
+ 
+.activeMenu {
+	background-color: #ff0000;
+}
+
+.bodyWrapper {
+	background: 0;
+	background-image: 0 ), color-stop(0.56, rgb(107,107,107)),
+		color-stop(1, rgb(255, 255, 255) ) );
+	border-left: 10px solid #CECECE;
+	border-right: 10px solid #CECECE;
+	color: #949494;
+	filter: progid:DXImageTransform.Microsoft.Gradient(GradientType=1,
+		startColorstr=#ffffff, endColorstr=#6b6b6b);
+}
+
+.middleTopTopicContainer {
+	border: 1px solid #CECECE;
+}
+
+.rootSectionMenu {
+	background-color: #a3a3a3;
+	border-top: 2px solid #a3a3a3;
+}
+
+.slotBody {
+	color: #949494;
+	line-height: 1.5;
+}
+
+.webLinkCls {
+	color: #ff0000;
+}
+
+a {color: #ff0000;}
+
+span.ContentRecordTitle{color: #ff0000;}
+
+H1{color: #ff0000;font-family:Arial;}
+
+H2{color: #ff0000;font-family:Arial;}
+
+H3{color: #ff0000;font-family:Arial;}
+
+H4{color: #ff0000;font-family:Arial;}
+
+H5{color: #ff0000;font-family:Arial;}
+
+H6{color: #ff0000;font-family:Arial;}
+
+
+a{
+	color: #ff0000;
+}
+
+a:hover{color: #262429;}
+
+a:active{color: #ff0000;}
+
+.ContentRecordContentBoxSubHeader{color: #ff0000;}
+
+.RuntimeMessageCls{color: #ff0000};
+
+.myActiveListItem{color: #ff0000;}
+
+.hightlighttext{color: #ff0000;}
+
+.middleTopTopicHeader{color: #ff0000;}
+
+.middleTopTopicContent2Header{color: #ff0000;}
+
+.middleTopTopicContent2Action{color: #ff0000;}
+
+.middleColumRow2ReviewBoxHeader{color: #ff0000;}
+
+.middleColumRow2WhatNewHeader{color: #ff0000;}
+
+.middleColumRow2WhatNewBottomRow{color: #ff0000;}
+
+.submenuitem{color: #ff0000;}
+
+.ContentRecordContentBoxHeader{color: #ff0000;}
+
+.ContentRecordContentAction{color: #ff0000;}
+
+.UserInfoCls
+	{
+	color: #ff0000;
+}
+
+
+a .ContentRecordTitle{
+	color: #ff0000;
+}
+
+.memberLoginLinks {
+	color: #ff0000;
+}
+
+
+input[type=submit],input[type=button],.selectedTopicHeader {
+	background-color: #ff0000;
+}
+
+input[type=text],input[type=password],.searchTextBox,.subscribeTextBox {
+	border: 1px solid #ff0000;
+}
+
+ul.dropdown li {
+	background: #CECECE;
+}
+
+ul.dropdown li a {
+	color: #262429;
+}
+
+ul.dropdown ul li,#leftPageColumnDiv H2 {
+	background: #a3a3a3;
+}
+
+.ConentSlotRecordTd {
+	border-bottom: 0;
+	 
+}
+.pagefooterBg{
+	background:#a3a3a3;
+	color:#262429;
+}
+.pagefooterBg *{
+	 
+	color:#262429;
+}
